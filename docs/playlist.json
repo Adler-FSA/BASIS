@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "title": "Trailer FSA",
+      "src": "https://example.com/trailer.mp4",
+      "type": "video/mp4"
+    }
+  ],
+  "music": [
+    {
+      "title": "Terra Mater – Inspiring Cinematic Epic",
+      "src": "https://example.com/terra-mater-inspiring-cinematic-epic-272565.mp3",
+      "type": "audio/mpeg"
+    }
+  ]
+}
